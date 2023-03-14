@@ -14,7 +14,10 @@
     "autoload": {
             "psr-4": {
                 "Cobru\\Main\\": "src/Cobru/Main"
-            }
+            },
+            "files": [
+                "src/Cobru/Main/registration.php"
+            ]
     },
     "authors": [
         {
