@@ -1,0 +1,28 @@
+{
+    "name": "oscar-rey/cobru_plugin_magento",
+    "description": "Plugin para magento ecommerce",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "cobru",
+        "php",
+        "sdk",
+        "nequi",
+        "pagos",
+        "online"
+    ],
+    "autoload": {
+        "autoload": {
+            "psr-4": {
+                "Cobru\\Main\\": "src/Cobru/Main"
+            }
+        }
+    },
+    "authors": [
+        {
+            "name": "oscar-rey",
+            "email": "oscarhumberto1311@gmail.com"
+        }
+    ],
+    "require": {}
+}

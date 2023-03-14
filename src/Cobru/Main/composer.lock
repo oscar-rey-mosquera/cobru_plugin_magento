@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7f3e26c320f5dc972e3ec9578a96e454",
+    "packages": [
+        {
+            "name": "oscar-rey/cobru-sdk",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/oscar-rey-mosquera/cobru-sdk-php.git",
+                "reference": "140dc0813ec22f359362fe147433a742cb795348"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/oscar-rey-mosquera/cobru-sdk-php/zipball/140dc0813ec22f359362fe147433a742cb795348",
+                "reference": "140dc0813ec22f359362fe147433a742cb795348",
+                "shasum": ""
+            },
+            "require-dev": {
+                "pestphp/pest": "^1.22"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "CobruSdk\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "oscar-rey"
+                }
+            ],
+            "description": "sdk cobru para php",
+            "keywords": [
+                "cobru",
+                "nequi",
+                "online",
+                "pagos",
+                "php",
+                "sdk"
+            ],
+            "support": {
+                "issues": "https://github.com/oscar-rey-mosquera/cobru-sdk-php/issues",
+                "source": "https://github.com/oscar-rey-mosquera/cobru-sdk-php/tree/1.0.1"
+            },
+            "time": "2023-03-13T20:23:11+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

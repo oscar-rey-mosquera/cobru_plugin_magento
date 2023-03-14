@@ -1,0 +1,19 @@
+{
+    "name": "oscar-rey/cobru-magento",
+    "description": "Plugin cobru para magento",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oscar-rey",
+            "email": "oscarhumberto1311@gmail.com"
+        }
+    ],
+    "require": {
+        "oscar-rey/cobru-sdk": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cobru\\Main\\": ""
+        }
+    }
+}
