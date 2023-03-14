@@ -12,11 +12,9 @@
         "online"
     ],
     "autoload": {
-        "autoload": {
             "psr-4": {
                 "Cobru\\Main\\": "src/Cobru/Main"
             }
-        }
     },
     "authors": [
         {
