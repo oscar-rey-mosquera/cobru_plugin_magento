@@ -40,6 +40,6 @@ php bin/magento module:status
 Ya puede ingresar al área de administración de Magento 2 e ingresar a Tiendas->configuracion->Metodos de pago
 y encontrará el panel de cobru para configurarlo.
 
-<img src="/imagenes/1.jpg" width="400px"/>
+<img src="/imagenes/1.jpg" width="600px"/>
 
 
